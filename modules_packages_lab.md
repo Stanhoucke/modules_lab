@@ -36,7 +36,7 @@ Using the start code provided, your task is to take the code in the file and bre
 
 2. Add another `import` statement to `app.py` to import the code from this module. (Remember to add your empty `__init__.py` file to your package).
 
-3. In the main loop in `app.py` there is code which gets input from the user. Modify this code so that the `input` statements are replaced with calls to functions in a new module in the `modules` package called `modules` package called `input.py`. The code in `app.py` should now call these functions.
+3. In the main loop in `app.py` there is code which gets input from the user. Modify this code so that the `input` statements are replaced with calls to functions in the `modules` package called `modules` package called `input.py`. The code in `app.py` should now call these functions.
 
 ## Advanced Extension
 
